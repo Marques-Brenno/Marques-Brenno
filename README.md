@@ -48,6 +48,7 @@ Sou um estudante de Ciência da Computação pela UTFPR e técnico em Análise e
 - 💻 Técnico em Análise e Desenvolvimento de Sistemas – ETEC (concluído)
 - 📘 Cursos: JavaScript, Git/GitHub, Algoritmos – Curso em Vídeo
 
+<!--
 ---
 
 ### 📊 GitHub Stats
@@ -56,6 +57,8 @@ Sou um estudante de Ciência da Computação pela UTFPR e técnico em Análise e
   <img src="https://github-readme-stats.vercel.app/api?username=Marques-Brenno&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marques-Brenno&layout=compact&theme=radical" height="150"/>
 </p>
+
+-->
 
 ---
 
