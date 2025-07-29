@@ -38,7 +38,6 @@ Sou um desenvolvedor web com foco em construir aplicações modernas, responsiva
 | **Calculadora** | Realiza operações básicas com interface intuitiva | HTML, CSS, JavaScript |
 | **Relógio Dinâmico** | Exibe hora atual com atualização em tempo real | HTML, CSS, JavaScript |
 
-> *Adicione os projetos reais do seu perfil aqui quando estiver disponível!*
 
 ---
 
@@ -53,7 +52,7 @@ Sou um desenvolvedor web com foco em construir aplicações modernas, responsiva
 
 ### 📫 Como me encontrar
 
->- [LinkedIn](https://www.linkedin.com/in/seu-link/)
+<!-- - [LinkedIn](https://www.linkedin.com/in/seu-link/) -->
 - **Email:** brennomarques04@gmail.com
 
 ---
