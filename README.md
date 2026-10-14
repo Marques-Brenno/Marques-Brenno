@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Brenno Marques 👋</h1>
 
 <p align="center">
-  Desenvolvedor em formação | JavaScript & Front-end | Estudante de Ciência da Computação
+  Desenvolvedor em formação | JavaScript & TypeScript | Estudante de Ciência da Computação
 </p>
 
 ---
